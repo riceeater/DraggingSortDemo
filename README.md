@@ -1,1 +1,1 @@
-使用ItemTouchHelper来实现RecyclerView的拖拽排序，滑动删除。配套博客地址：[](http://www.riceeater.info/articles/Android/View/DraggingSortDemo/)，欢迎评论~
+使用ItemTouchHelper来实现RecyclerView的拖拽排序，滑动删除。配套博客地址：[Android 列表拖拽排序及禁止拖拽以及保存排序状态](http://www.riceeater.info/articles/Android/View/DraggingSortDemo/)，欢迎评论~
