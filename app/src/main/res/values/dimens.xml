@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="book_name">14sp</dimen>
+    <dimen name="book_time">12sp</dimen>
+
+    <dimen name="common_left_margin">12dp</dimen>
+    <dimen name="common_right_margin">12dp</dimen>
+</resources>
